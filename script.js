@@ -51,7 +51,10 @@ $(document).ready(function() {
         marker: { enabled: false },
       })
     }
-
+  
+     Highcharts.setOptions({
+       colors: {'#DA7345' , '6C91C2']
+               }};
     // Now create the chart
     Highcharts.chart('container', {
 
