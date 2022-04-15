@@ -53,7 +53,7 @@ $(document).ready(function() {
     }
   
      Highcharts.setOptions({
-       colors: ['#DA7635' , '6C91C2']
+       colors: ['#DA7945' , '#6C91C2']
                });
     // Now create the chart
     Highcharts.chart('container', {
