@@ -1,6 +1,6 @@
 # Annotated Line Chart with Highcharts
 
-![Annotated line chart](./line-chart.jpg)
+![Annotated line chart](./line-chart.jpg )
 
 ## Demo
 https://jorti171.github.io/line-chart-practice/
